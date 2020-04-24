@@ -1,3 +1,17 @@
+<p align="center">
+  <a title="DBM Network" href="https://discord.gg/sd62gjV" target="_blank">
+    <img src="https://i.imgur.com/09Oz2z2.png" width="512" alt="DBM Network" />
+  </a>
+</p>
+<p align="center">
+  <a title="Contributors" href="https://github.com/kamack38/iPlay-Poland-Bot/graphs/contributors" target="_blank">
+    <img src="https://img.shields.io/badge/Contriubtors-1-4c1" alt="Contributors" />
+  </a>
+  <a title="Release" href="https://github.com/dbm-network/mods/releases" target="_blank">
+    <img src="https://img.shields.io/badge/Realse-v1.3-007ec6" alt="Latest Release" />
+  </a>
+</p>
+
 # _**iPlay Poland Bot**_
  iPlay Poland B0T is a Discord Bot persionalized for server iPlay Poland.
  Prefix : "!"
