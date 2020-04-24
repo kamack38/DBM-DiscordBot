@@ -29,3 +29,20 @@
 - warn @user - warns user
 - clear-warn @user - deletes all user warns
 - clear <number> - deletes <number> mesages
+
+## Logs :
+- Channel Logs 
+  - Channel Created
+  - Channel Deleted
+- User Join Logs
+  - User Joins Server
+  - User Leaves Server
+- Role Logs
+  - Role Created
+  - Role Deleted
+
+## Oher Stuff :
+- Welcome messages
+- Leave messages
+- Ban messages
+- Setting Bot acivity
