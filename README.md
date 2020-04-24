@@ -7,7 +7,7 @@
   <a title="Contributors" href="https://github.com/kamack38/iPlay-Poland-Bot/graphs/contributors" target="_blank">
     <img src="https://img.shields.io/github/contributors/kamack38/iPlay-Poland-Bot" alt="Contributors" />
   </a>
-  <a title="Release" href="https://github.com/dbm-network/mods/releases" target="_blank">
+  <a title="Release" href="https://github.com/kamack38/iPlay-Poland-Bot/releases" target="_blank">
     <img src="https://img.shields.io/github/v/release/kamack38/iPlay-Poland-Bot" alt="Latest Release" />
   </a>
 </p>
