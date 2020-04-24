@@ -5,10 +5,10 @@
 </p>
 <p align="center">
   <a title="Contributors" href="https://github.com/kamack38/iPlay-Poland-Bot/graphs/contributors" target="_blank">
-    <img src="https://img.shields.io/badge/Contriubtors-1-4c1" alt="Contributors" />
+    <img src="https://img.shields.io/github/contributors/kamack38/iPlay-Poland-Bot" alt="Contributors" />
   </a>
   <a title="Release" href="https://github.com/dbm-network/mods/releases" target="_blank">
-    <img src="https://img.shields.io/badge/Realse-v1.3-007ec6" alt="Latest Release" />
+    <img src="https://img.shields.io/github/v/release/kamack38/iPlay-Poland-Bot" alt="Latest Release" />
   </a>
 </p>
 
