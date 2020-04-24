@@ -46,3 +46,6 @@
 - Leave messages
 - Ban messages
 - Setting Bot acivity
+
+## Made by [Kamack38](https://tinyurl.com/kamack38) 
+Kamack38 is Youtube conntent creator. On his videos he plays games. Especially Minecraft and CS:GO. Also he has his own discord server _iPlay Poland_ for which he has made this bot.
