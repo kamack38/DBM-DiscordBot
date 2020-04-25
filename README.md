@@ -17,14 +17,14 @@
 - [Overview](#overview)
 - [Downloads](#downloads)
   - [Adding bot to Glitch](#adding-bot-to-glitch)
-  - [Making bot work 24/7](#making-bot-work-24/7)
-- [Commands](#commands)
-  - [Moderation Commands](#moderation-commands)
-  - [Info Commands](#info-commands)
-  - [Bot Owner Commands](#bot-owner-commands)
-  - [Misc](#misc)
-- [Logs](#logs)
-- [Other Stuff](#oder-stuff)
+  - [Making bot work 24/7](#making-bot-work-247)
+- [Commands](#commands-)
+  - [Moderation Commands](#moderation-commands-)
+  - [Info Commands](#info-commands-)
+  - [Bot Owner Commands](#bot-owner-commands-)
+  - [Misc](#misc-)
+- [Logs](#logs-)
+- [Other Stuff](#oder-stuff-)
 - [Credits](#made-by-kamack38)
 
 ## Overview
@@ -78,7 +78,7 @@ _iPlay Poalnd_ is bot for server [iPlay Poland](https://discord.gg/sd62gjV). Fee
 - user-info <@user | no user (us)> - show info about mentioned user 
 - role-info @role - show info about a role
 
-### Bot Owner Commands
+### Bot Owner Commands :
 - bot-restart - restarts bot
 - bot-stop - stops bot
 
