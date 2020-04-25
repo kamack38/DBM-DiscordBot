@@ -29,7 +29,10 @@
 - calculate <number1> <+ | - | * | /> <number2> - make calculation
 - flipcoin - flips a coin
 - joke - tell a joke
-- mem - sends meme
+- meme - sends meme
+- demotivator - sends demotivator
+- cat - sends cat image
+- dog - sends dog image
 - invite @user - invite user to official iPlay Poland discord server
 
 ## Moderation :
@@ -54,6 +57,10 @@
 - Role Logs
   - Role Created
   - Role Deleted
+
+## Bot Owner Commands
+- bot-restart - restarts bot
+- bot-stop - stops bot
 
 ## Oher Stuff :
 - Welcome messages
