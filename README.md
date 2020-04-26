@@ -90,7 +90,7 @@ _iPlay Poalnd_ is bot for server [iPlay Poland](https://discord.gg/sd62gjV). Fee
 - calculate <number1> <+ | - | * | /> <number2> - make calculation
 - flipcoin - flips a coin
 - 8ball <question> - answers your question
-- proposition <propostion> - add proposition
+- proposition <propostion> - adds proposition
 - joke - tell a joke
 - meme - sends meme
 - demotivator - sends demotivator
