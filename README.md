@@ -87,7 +87,7 @@ _iPlay Poalnd_ is bot for server [iPlay Poland](https://discord.gg/sd62gjV). Fee
 - weather <city> - show weather in current city
 - coronavirus <country> - show coronavirus cases in picked country
 - random-number <min> <max> - pick random number form <min> to <max>
-- calculate <number1> <+ | - | * | /> <number2> - make calculation
+- calculate <number1> < + | - | * | / > <number2> - make calculation
 - flipcoin - flips a coin
 - 8ball <question> - answers your question
 - proposition <propostion> - adds proposition
