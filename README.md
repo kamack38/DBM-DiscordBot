@@ -89,6 +89,8 @@ _iPlay Poalnd_ is bot for server [iPlay Poland](https://discord.gg/sd62gjV). Fee
 - random-number <min> <max> - pick random number form <min> to <max>
 - calculate <number1> <+ | - | * | /> <number2> - make calculation
 - flipcoin - flips a coin
+- 8ball <question> - answers your question
+- proposition <propostion> - add proposition
 - joke - tell a joke
 - meme - sends meme
 - demotivator - sends demotivator
