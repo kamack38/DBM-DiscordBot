@@ -28,7 +28,7 @@
 - [Credits](#made-by-kamack38)
 
 ## Overview
-_iPlay Poalnd_ is bot for server [iPlay Poland](https://discord.gg/sd62gjV). Feel free to use this bot on your server. Prefix : "!".
+_iPlay Poland_ is bot for server [iPlay Poland](https://discord.gg/sd62gjV). Feel free to use this bot on your server. Prefix : "!".
 
 ## Downloads
 
