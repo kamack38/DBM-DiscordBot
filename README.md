@@ -10,6 +10,9 @@
   <a title="Release" href="https://github.com/kamack38/iPlay-Poland-Bot/releases" target="_blank">
     <img src="https://img.shields.io/github/v/release/kamack38/iPlay-Poland-Bot" alt="Latest Release" />
   </a>
+  <a title="Follow on Twitter" href="https://twitter.com/intent/follow?screen_name=kamack38" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/kamack38?style=social" alt="Latest Release" />
+  </a>
 </p>
 
 # Table of Contents
