@@ -59,6 +59,7 @@ _iPlay Poalnd_ is bot for server [iPlay Poland](https://discord.gg/sd62gjV). Fee
 - help
   - command - show help for commands
   - moderation - show help for moderation commands
+  - fun - show help for fun commands
 
 ### Moderation Commands :
 - kick @user <reason> - kicks user from srver
@@ -82,20 +83,29 @@ _iPlay Poalnd_ is bot for server [iPlay Poland](https://discord.gg/sd62gjV). Fee
 - bot-restart - restarts bot
 - bot-stop - stops bot
 
-### Misc :
+### Fun :
 
-- weather <city> - show weather in current city
-- coronavirus <country> - show coronavirus cases in picked country
 - random-number <min> <max> - pick random number form <min> to <max>
 - calculate <number1> < + | - | * | / > <number2> - make calculation
 - flipcoin - flips a coin
 - 8ball <question> - answers your question
-- proposition <propostion> - adds proposition
 - joke - tell a joke
 - meme - sends meme
 - demotivator - sends demotivator
 - cat - sends cat image
 - dog - sends dog image
+- panda - sends panda image
+- redpanda - sends redpanda image
+- koala - sends koala image
+- fox - sends fox image
+- bird - sends bird image
+- pikachu - sends pikachu gif
+
+### Misc :
+
+- weather <city> - show weather in current city
+- coronavirus <country> - show coronavirus cases in picked country
+- proposition <propostion> - adds proposition
 - invite @user - invite user to official iPlay Poland discord server
 
 ## Logs :
