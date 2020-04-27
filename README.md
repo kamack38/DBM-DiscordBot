@@ -136,7 +136,7 @@ _iPlay Poland_ is bot for server [iPlay Poland](https://discord.gg/sd62gjV). Fee
 [Kamack38](https://tinyurl.com/kamack38)  is Youtube conntent creator. On his videos he plays games. Especially Minecraft and CS:GO. Also he has his own discord server _iPlay Poland_ for which he has made this bot.
 <p align="center">
   <a title="Follow on Twitter" href="https://twitter.com/intent/follow?screen_name=kamack38" target="_blank">
-    <img src="https://img.shields.io/github/contributors/kamack38/iPlay-Poland-Bot" alt="Contributors" />
+    <img src="https://img.shields.io/twitter/follow/kamack38?label=Follow&style=social" alt="Contributors" />
   </a>
   <a title="Follow on Github" href="https://github.com/kamack38" target="_blank">
     <img src="https://img.shields.io/github/followers/kamack38?style=social" alt="Contributors" />
