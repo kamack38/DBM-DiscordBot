@@ -141,4 +141,7 @@ _iPlay Poland_ is bot for server [iPlay Poland](https://discord.gg/sd62gjV). Fee
   <a title="Follow on Github" href="https://github.com/kamack38" target="_blank">
     <img src="https://img.shields.io/github/followers/kamack38?style=social" alt="Contributors" />
   </a>
+  <a title="Star" href="https://github.com/kamack38/iPlay-Poland-Bot" target="_blank">
+    <img src="https://img.shields.io/github/stars/kamack38/iPlay-Poland-bot?style=social" alt="Stars" />
+  </a>
 </p>
