@@ -112,6 +112,7 @@ _iPlay Poland_ is bot for server [iPlay Poland](https://discord.gg/sd62gjV). Fee
 - weather <city> - show weather in current city
 - coronavirus <country> - show coronavirus cases in picked country
 - proposition <propostion> - adds proposition
+- complaint @user <reason> - add complaint
 - invite @user - invite user to official iPlay Poland discord server
 
 ## Logs :
