@@ -32,6 +32,7 @@
 - [Logs](#logs-)
 - [Other Stuff](#oder-stuff-)
 - [Credits](#made-by-kamack38)
+- [Discord Server](#discord-server)
 
 ## Overview
 _iPlay Poland_ is bot for server [iPlay Poland](https://discord.gg/sd62gjV). Feel free to use this bot on your server. Prefix : "!".
@@ -146,3 +147,6 @@ _iPlay Poland_ is bot for server [iPlay Poland](https://discord.gg/sd62gjV). Fee
     <img src="https://img.shields.io/github/stars/kamack38/iPlay-Poland-bot?style=social" alt="Stars" />
   </a>
 </p>
+
+## Discord Server
+<iframe src="https://discordapp.com/widget?id=433614342777208843&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0"></iframe>
