@@ -1,5 +1,5 @@
 <p align="center">
-  <a title="DBM Network" href="https://discord.gg/sd62gjV" target="_blank">
+  <a title="iPlay Poland Discord Server" href="https://discord.gg/sd62gjV" target="_blank">
     <img src="https://i.imgur.com/09Oz2z2.png" width="1720" alt="iPlay Poland" />
   </a>
 </p>
