@@ -35,11 +35,13 @@
 - [Discord Server](#discord-server)
 
 ## Overview
+
 _iPlay Poland_ is bot for server [iPlay Poland](https://discord.gg/sd62gjV). Feel free to use this bot on your server. Prefix : "!".
 
-## Downloads
+## Setting up BOT
 
 ### Adding bot to Glitch
+
 1. Go to [glitch.com](https://glitch.com/) and login or create account.
 2. Click New Project and then "hello express".
 3. Delete all files. PS. You cant delete "assets".
@@ -51,6 +53,7 @@ _iPlay Poland_ is bot for server [iPlay Poland](https://discord.gg/sd62gjV). Fee
 9. Your bot is now ready to use.
 
 ### Making bot work 24/7
+
 1. In glitch.com click "Share". Then select "Live App" and copy link.
 2. Go to [uptimerobot.com](https://uptimerobot.com/) and Login or Sign-up.
 3. Got to dashboard.
@@ -69,6 +72,7 @@ _iPlay Poland_ is bot for server [iPlay Poland](https://discord.gg/sd62gjV). Fee
   - fun - show help for fun commands
 
 ### Moderation Commands :
+
 - kick @user <reason> - kicks user from srver
 - ban @user <reason> - bans user
 - unban <user id> - unbans user
@@ -87,6 +91,7 @@ _iPlay Poland_ is bot for server [iPlay Poland](https://discord.gg/sd62gjV). Fee
 - role-info @role - show info about a role
 
 ### Bot Owner Commands :
+
 - bot-restart - restarts bot
 - bot-stop - stops bot
 
@@ -117,6 +122,7 @@ _iPlay Poland_ is bot for server [iPlay Poland](https://discord.gg/sd62gjV). Fee
 - invite @user - invite user to official iPlay Poland discord server
 
 ## Logs :
+
 - Channel Logs 
   - Channel Created
   - Channel Deleted
@@ -129,12 +135,14 @@ _iPlay Poland_ is bot for server [iPlay Poland](https://discord.gg/sd62gjV). Fee
 
 
 ## Oher Stuff :
+
 - Welcome messages
 - Leave messages
 - Ban messages
 - Setting Bot acivity
 
 ## Made by Kamack38
+
 [Kamack38](https://tinyurl.com/kamack38)  is Youtube conntent creator. On his videos he plays games. Especially Minecraft and CS:GO. Also he has his own discord server _iPlay Poland_ for which he has made this bot.
 <p align="center">
   <a title="Follow on Twitter" href="https://twitter.com/intent/follow?screen_name=kamack38" target="_blank">
@@ -146,7 +154,13 @@ _iPlay Poland_ is bot for server [iPlay Poland](https://discord.gg/sd62gjV). Fee
   <a title="Star" href="https://github.com/kamack38/iPlay-Poland-Bot" target="_blank">
     <img src="https://img.shields.io/github/stars/kamack38/iPlay-Poland-bot?style=social" alt="Stars" />
   </a>
+  
+  <br />
+  <br />
+  
+  <a title="Join Discord server" href="https://discord.gg/sd62gjV" target="_blank">
+    <img src="https://img.shields.io/discord/433614342777208843?label=Discord&style=for-the-badge" alt="Discord Server" />
+  </a>
 </p>
 
-## Discord Server
-<iframe src="https://discordapp.com/widget?id=433614342777208843&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0"></iframe>
+---
