@@ -36,7 +36,7 @@
 
 ## Overview
 
-_iPlay Poland_ is bot for server [iPlay Poland](https://discord.gg/sd62gjV). Feel free to use this bot on your server. Prefix : "!".
+_iPlay Poland_ is bot for server [iPlay Poland](https://discord.gg/sd62gjV) created in [Discord Bot Maker](https://store.steampowered.com/app/682130/Discord_Bot_Maker/). Feel free to use this bot on your server. Prefix : "!".
 
 ## Setting up BOT
 
