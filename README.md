@@ -4,17 +4,17 @@
   </a>
 </p>
 <p align="center">
-  <a title="Contributors" href="https://github.com/kamack38/iPlay-Poland-Bot/graphs/contributors" target="_blank">
-    <img src="https://img.shields.io/github/contributors/kamack38/iPlay-Poland-Bot?label=Contributors" alt="Contributors" />
+  <a title="Contributors" href="https://github.com/kamack38/DBM-DiscordBot/graphs/contributors" target="_blank">
+    <img src="https://img.shields.io/github/contributors/kamack38/DBM-DiscordBot?label=Contributors" alt="Contributors" />
   </a>
-  <a title="Release" href="https://github.com/kamack38/iPlay-Poland-Bot/releases" target="_blank">
-    <img src="https://img.shields.io/github/v/release/kamack38/iPlay-Poland-Bot?label=Release" alt="Latest Release" />
+  <a title="Release" href="https://github.com/kamack38/DBM-DiscordBot/releases" target="_blank">
+    <img src="https://img.shields.io/github/v/release/kamack38/DBM-DiscordBot?label=Release" alt="Latest Release" />
   </a>
-  <a title="Release Date" href="https://github.com/kamack38/iPlay-Poland-Bot/releases" target="_blank">
-    <img src="https://img.shields.io/github/release-date/kamack38/iPlay-Poland-Bot?label=Release%20Date" alt="Latest Release" />
+  <a title="Release Date" href="https://github.com/kamack38/DBM-DiscordBot/releases" target="_blank">
+    <img src="https://img.shields.io/github/release-date/kamack38/DBM-DiscordBot?label=Release%20Date" alt="Latest Release" />
   </a>
-  <a title="Languages" href="https://github.com/kamack38/iPlay-Poland-Bot/releases" target="_blank">
-    <img src="https://img.shields.io/github/languages/count/kamack38/iPlay-Poland-Bot?label=Language" alt="Latest Release" />
+  <a title="Languages" href="https://github.com/kamack38/DBM-DiscordBot/releases" target="_blank">
+    <img src="https://img.shields.io/github/languages/count/kamack38/DBM-DiscordBot?label=Language" alt="Latest Release" />
   </a>
 </p>
 
